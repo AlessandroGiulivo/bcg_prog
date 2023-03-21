@@ -1,0 +1,138 @@
+Sinistra  Giù       Sinistra  Hai Vinto!Destra    
+Sinistra  Sù        Hai Vinto!Sinistra  Destra    
+Giù       Hai Vinto![Sinistra]	Hai Vinto!Sù        
+Sù        Sù        Hai Vinto!Destra    Destra    
+Sinistra  Sinistra  Hai Vinto!Giù       Sù        
+
+WON!    DOWN    WON!    WON!    DOWN    
+RIGHT   LEFT    RIGHT   LEFT    UP      
+LEFT    DOWN    [WON!]	WON!    DOWN    
+WON!    UP      WON!    UP      WON!    
+LEFT    WON!    DOWN    LEFT    LEFT    
+
+WON!    LEFT    RIGHT   WON!    DOWN    
+WON!    [RIGHT]	LEFT    DOWN    RIGHT   
+DOWN    RIGHT   DOWN    WON!    RIGHT   
+RIGHT   UP      LEFT    WON!    UP      
+WON!    UP      LEFT    UP      DOWN    
+
+DOWN    UP      LEFT    UP      RIGHT   
+WON!    DOWN    DOWN    WON!    DOWN    
+RIGHT   DOWN    LEFT    UP      WON!    
+RIGHT   UP      LEFT    UP      RIGHT   
+RIGHT   DOWN    WON!    WON!    [RIGHT]
+
+DOWN    WON!    DOWN    RIGHT   UP      
+RIGHT   UP      LEFT    RIGHT   LEFT    
+WON!    WON!    WON!    DOWN    RIGHT   
+UP      DOWN    RIGHT   [LEFT]	UP      
+UP      DOWN    LEFT    RIGHT   LEFT    
+
+RIGHT   DOWN    DOWN    LEFT    UP      
+RIGHT   LEFT    DOWN    LEFT    RIGHT   
+RIGHT   UP      [RIGHT]	UP      LEFT    
+UP      RIGHT   WON!    LEFT    LEFT    
+UP      RIGHT   WON!    LEFT    RIGHT   
+
+UP      UP      LEFT    UP      UP      
+UP      RIGHT   RIGHT   UP      WON!    
+WON!    WON!    [DOWN]	DOWN    LEFT    
+DOWN    RIGHT   DOWN    UP      UP      
+RIGHT   WON!    DOWN    DOWN    LEFT    
+
+DOWN    LEFT    DOWN    LEFT    RIGHT   
+UP      RIGHT   LEFT    WON!    RIGHT   
+UP      RIGHT   [UP]	UP      LEFT    
+LEFT    WON!    RIGHT   UP      UP      
+UP      DOWN    RIGHT   DOWN    LEFT    
+
+LEFT    DOWN    DOWN    WON!    UP      
+DOWN    RIGHT   RIGHT   DOWN    RIGHT   
+DOWN    DOWN    [UP]	DOWN    UP      
+LEFT    RIGHT   UP      LEFT    RIGHT   
+LEFT    LEFT    UP      DOWN    DOWN    
+
+RIGHT   WON!    RIGHT   WON!    WON!    
+WON!    DOWN    WON!    RIGHT   DOWN    
+DOWN    DOWN    [RIGHT]	UP      DOWN    
+WON!    RIGHT   DOWN    LEFT    WON!    
+UP      DOWN    WON!    RIGHT   LEFT    
+
+RIGHT   UP      LEFT    DOWN    LEFT    
+DOWN    UP      WON!    RIGHT   LEFT    
+LEFT    DOWN    [DOWN]	RIGHT   RIGHT   
+UP      RIGHT   WON!    RIGHT   UP      
+LEFT    UP      DOWN    DOWN    WON!    
+
+WON!    LEFT    LEFT    LEFT    WON!    
+UP      RIGHT   LEFT    RIGHT   DOWN    
+LEFT    UP      [WON!]	RIGHT   WON!    
+RIGHT   RIGHT   RIGHT   UP      UP      
+WON!    DOWN    UP      LEFT    LEFT    
+
+LEFT    RIGHT   UP      DOWN    DOWN    
+WON!    WON!    DOWN    DOWN    LEFT    
+DOWN    WON!    [WON!]	WON!    DOWN    
+WON!    DOWN    DOWN    WON!    DOWN    
+DOWN    UP      UP      UP      RIGHT   
+
+UP      RIGHT   DOWN    RIGHT   LEFT    
+UP      WON!    UP      LEFT    RIGHT   
+DOWN    RIGHT   [UP]	UP      UP      
+DOWN    LEFT    LEFT    DOWN    UP      
+LEFT    DOWN    LEFT    LEFT    RIGHT   
+
+WON!    LEFT    UP      LEFT    DOWN    
+RIGHT   UP      RIGHT   WON!    DOWN    
+LEFT    RIGHT   [WON!]	DOWN    WON!    
+DOWN    RIGHT   UP      LEFT    UP      
+RIGHT   UP      RIGHT   RIGHT   DOWN    
+
+DOWN    RIGHT   UP      WON!    RIGHT   
+WON!    WON!    DOWN    UP      RIGHT   
+RIGHT   LEFT    [WON!]	RIGHT   UP      
+UP      DOWN    DOWN    DOWN    RIGHT   
+UP      WON!    LEFT    WON!    LEFT    
+
+WON!    UP      LEFT    UP      WON!    
+WON!    LEFT    DOWN    RIGHT   LEFT    
+LEFT    WON!    [RIGHT]	UP      DOWN    
+LEFT    DOWN    LEFT    RIGHT   RIGHT   
+LEFT    WON!    UP      LEFT    DOWN    
+
+RIGHT   RIGHT   LEFT    UP      DOWN    
+RIGHT   DOWN    LEFT    DOWN    RIGHT   
+WON!    UP      WON!    RIGHT   [RIGHT]
+UP      DOWN    LEFT    DOWN    UP      
+UP      DOWN    RIGHT   DOWN    UP      
+
+UP      UP      LEFT    UP      LEFT    
+RIGHT   UP      DOWN    DOWN    DOWN    
+DOWN    WON!    UP      DOWN    [DOWN]
+RIGHT   DOWN    LEFT    UP      DOWN    
+DOWN    WON!    DOWN    LEFT    RIGHT   
+
+DOWN    LEFT    WON!    RIGHT   RIGHT   
+WON!    RIGHT   RIGHT   LEFT    DOWN    
+DOWN    DOWN    LEFT    DOWN    [WON!]
+LEFT    DOWN    UP      LEFT    DOWN    
+RIGHT   RIGHT   WON!    UP      LEFT    
+
+RIGHT   WON!    DOWN    DOWN    WON!    
+RIGHT   LEFT    LEFT    DOWN    DOWN    
+LEFT    RIGHT   [DOWN]	RIGHT   UP      
+WON!    LEFT    RIGHT   LEFT    LEFT    
+UP      UP      RIGHT   DOWN    LEFT    
+
+WON!    LEFT    LEFT    RIGHT   WON!    
+UP      WON!    UP      LEFT    LEFT    
+UP      DOWN    UP      RIGHT   LEFT    
+RIGHT   UP      LEFT    DOWN    RIGHT   
+RIGHT   RIGHT   DOWN    RIGHT   WON!    
+
+WON!    LEFT    DOWN    WON!    LEFT    
+RIGHT   UP      LEFT    UP      UP      
+LEFT    LEFT    [UP]	UP      LEFT    
+LEFT    RIGHT   UP      WON!    DOWN    
+DOWN    WON!    WON!    WON!    UP      
+

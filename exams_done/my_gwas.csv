@@ -1,0 +1,11 @@
+id,donor,SNP,trait
+1,p001,rs876,opioid dependence
+2,p001,rs209,lactose intolerance
+3,d001,rs123, malaria resistance
+4,r002,rs768,lactose intolerance
+5,p002,rs209,anemia
+6,p003,rs09,green eyes
+7,p004,rs073,opioid dependence
+8,p005,rs209,green eyes
+9,p006,rs123,opioid dependence
+10,p006,rs455,lactose intolerance

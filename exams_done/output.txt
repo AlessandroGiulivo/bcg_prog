@@ -1,0 +1,5 @@
+file1.bed, 498.875
+file2.bed, 510.429
+file3.bed, 606.622
+file4.bed, 486.062
+file5.bed, 538.761
